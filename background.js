@@ -29,7 +29,7 @@ async function main() {
   }
   if (classNameToRemove !== "") {
     bodyDoc.classList.remove(classNameToRemove);
-    log("Class removed: ", classNameToRemove);
+    console.log("Class removed: ", classNameToRemove);
   } else {
     console.log("No class found to remove");
   }
