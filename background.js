@@ -1,4 +1,4 @@
-console.log("WTF IS NOT TO PAY TO REJECT COOKIEEEEEEES!!!!");
+console.log("WTF IS TO PAY TO REJECT COOKIEEEEEEES!!!!");
 
 async function main() {
   const cookiesModal = await new Promise((resolve) => {
